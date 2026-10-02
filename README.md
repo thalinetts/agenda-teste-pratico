@@ -1,4 +1,4 @@
-# Agenda+ — Agenda semanal
+# Agenda — Agenda semanal
 
 Tela de agenda semanal em **HTML + CSS + JavaScript puro**, sem build e sem dependências (só a fonte Inter via Google Fonts). Baseada no protótipo do Figma e no `agenda-base.html` do teste.
 
